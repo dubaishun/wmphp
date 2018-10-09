@@ -1,0 +1,46 @@
+/*初始化*/
+*{margin: 0;padding: 0}
+ol,ul{list-style: none;}
+a{text-decoration: none;}
+
+.head{width: 1200px;margin: 0 auto}
+.logo{float:left;width: 289px;height: 129px}
+.nav {float: left;margin:50px 0 0 80px}
+.nav li{float: left;width:80px;margin-left:10px;}
+.nav li a{font-size: 18px;line-height: 50px;color: #000;font-weight: 300;}
+.nav li a:hover{background-color: #8ec31e}
+
+
+margin 外边距
+margin-top
+margin-right
+margin-bottom
+margin-left 
+上 右 下 左
+margin:50px 0 0 80x
+padding 内边距
+padding-top
+		right
+ 		bottom
+ 		left
+font
+	size
+	famliy
+width
+height
+boder 边框
+float 浮动
+color 颜色
+display 显示
+position 定位
+background 背影
+background:url(pic) no-repeat 0 0 scroll;
+
+
+
+
+
+
+
+
+
